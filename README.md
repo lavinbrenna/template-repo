@@ -1,27 +1,31 @@
 # _{Application Name}_
 
-#### By _**{List of contributors}**_
+#### By _**Brenna Lavin**_
 
 #### _{Brief description of application}_
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
-
+* HTML
+* CSS
+* JavaScript
+* jQuery
+* BootStrap
+* Jest
+  
 ## Description
 
 _{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* Clone git repository to local machine
+* Navigate to root folder using machine's command line or terminal window in VSCode
+* type ```$ npm install``` to install project dependencies
+* type ```$ npm run test``` to run developer tests
+* type ```$ npm run start``` to start live server and open in browser.
+* Else navigate to project via GH Pages link
+* [GH Pages](https://lavinbrenna.github.io/pizza-parlor/)
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
 
@@ -34,7 +38,7 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2022] [Brenna Lavin]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
